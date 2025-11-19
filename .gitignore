@@ -209,3 +209,4 @@ out/models/*
 .DS_Store
 
 main_workflow_model_HBR_bak/*
+notebooks/pcntoolkit_resources/data/fcon1000.csv
