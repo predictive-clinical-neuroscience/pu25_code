@@ -4,4 +4,4 @@ This repository contains code examples corresponding from the paper [Protocol Up
 
 The notebooks include the main normative modelling workflow, longitudinal modelling, model comparison, data synthesis, data harmonization, federated learning workflows (model transfer, model extension, model merging) and a real-life scenario where we apply model transfer using pre-trained models from [Rutherford et al. (2022)](https://elifesciences.org/articles/72904)
 
-Note that you need to run `1_main_workflow.ipynb` first to get the trained model used by the other notebooks. The exception is `2.1_longitudinal_modelling.ipynb`, which uses its own data.
+Note that you need to run `1_main_workflow.ipynb` first to get the trained model used by the other notebooks. The exceptions are `2.1_longitudinal_modelling.ipynb` and `4.1_model_transfer_lifespan_reference.ipynb`, which use their own data.
