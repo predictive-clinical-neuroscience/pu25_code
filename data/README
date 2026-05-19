@@ -1,8 +1,0 @@
-## fcon1000.csv
-Contains cortical thickness and brain volumes from structural MRI
-
-## openneuro_main.csv
-Cortical thickness and subcortical volume data used to demonstrate the main workflow. These are derived from OpenNeuro datsets ds003568 and ds003653
-
-## openneuro_lifespan_txfr.csv
-Cortical thickness and subcortical volume data used to demonstrate the transfer learning workflow. These are taken from 5 different OpenNeuro datasets, namely ds003416, ds003469, ds003826, ds000222 and ds000115
